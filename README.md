@@ -89,7 +89,7 @@
 ### Group creation
 >[!/]creategroup [group name]
 >
->>[!/]creategroup SEED
+>>[!/]creategroup XNAME
 >>>will create a group
 >>>
 >>>_Only works in realms for admins but, sudo users can use it everywhere_
