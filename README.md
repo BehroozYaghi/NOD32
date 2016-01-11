@@ -1,4 +1,4 @@
-# [TeleSeed](https://telegram.me/TeleSeed) 
+# [@nod32group](https://telegram.me/NOD32Group) 
 **An advance and powerful Administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under [GNU General public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**
 # Features
 
@@ -435,8 +435,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ```bash
 # lets install the bot
 cd $HOME
-git clone https://github.com/SEEDTEAM/TeleSeed.git
-cd TeleSeed
+git clone https://github.com/nod32Group/nod32.git
+nod32
 chmod +x launch.sh
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
@@ -457,13 +457,8 @@ open file ./data/config.lua
 
 add your id to the "sudo_users" section in the following format:
 ```
-  sudo_users = {
-    110626080,
-    103649648,
-    111020322,
-    0,
-    YourID
-  }
+  sudo_users = {xxxxYourID}
+
 ```
 then start the bot again
 
@@ -473,31 +468,17 @@ Create a realm using !createrealm command
 # Support and development
 
 Do not contact **us** In private for support.
-Join our bot development group by sending `/join 56670147` to [@TeleSeed](https://telegram.me/TeleSeed)
-
+Join our bot development group by sending `/join 56670147` to [@nod32group]
 _If you are using /join service for first time you have to send it 11 times ( Bot is spam reported )_
 
 # Special thanks to
-[@seyedan25](https://telegram.me/seyedan25)
 
-For Managing [@teleseed](https://telegram.me/TeleSeed) on Telegram
-
-[@Vamptacus](https://telegram.me/Vamptacus)
+[@sogandmusic](https://telegram.me/sogandmusic)
 
 For graphic designs
 
-[@topkecleon](https://github.com/topkecleon)
+(https://telegram.me/behroozyaghi)
 
-[@JuanPotato](https://github.com/JuanPotato)
+# telegram channel'
 
-# Our team!
-
-[Alphonse](https://github.com/hmon) ([Telegram](https://telegram.me/iwals))
-
-[I M /-\ N](https://github.com/imandaneshi) ([Telegram](https://telegram.me/imandaneshi))
-
-[Siyanew](https://github.com/Siyanew) ([Telegram](https://telegram.me/Siyanew))
-
-[Rondoozle](https://github.com/Rondoozle) ([Telegram](https://telegram.me/Rondoozle))
-
-Our Telegram cahnnels > English: [@TeleSeedCH](https://telegram.me/teleseedch) Persian: [@IranSeed](https://telegram.me/iranseed)
+Our Telegram cahnnels >Persian: [@Nod32team](https://telegram.me/nod32Group)
