@@ -473,7 +473,7 @@ _If you are using /join service for first time you have to send it 11 times ( Bo
 
 # Special thanks to
 
-[@sogandmusic](https://telegram.me/sogandmusic)
+(https://telegram.me/sogandmusic)
 
 For graphic designs
 
