@@ -229,17 +229,6 @@ An advance Administration bot based on yagop/telegram-bot
 
 git clone https://github.com/nod32Group/nod32
 
-Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@Rondoozle [Developer]
-@seyedan25 [Manager]
-
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
 
 Our channels
 @nod32team [persian]
@@ -304,7 +293,7 @@ Send text to all groups
 Only sudo users can run this command
 
 !br [group_id] [text]
-!br 123456789 Hello !
+!br your {groupID} Hello !
 This command will send text to [group_id]
 
 
@@ -318,10 +307,13 @@ This command will send text to [group_id]
 
 *Only admins and sudo can use res, setowner, commands
 
-for create group send 10 to 
+for create group send 10 to:
 @behroozYaghi
 
-channel ; @Nod32team
+channel:@Nod32team
+ 
+ support group:
+ [type this{ !join 85934257} code here]
 
 good lock!
 ]],
@@ -329,10 +321,10 @@ good lock!
 Commands list :
 
 !kick [username|id]
-You can also do it by reply
+You can kick by reply
 
 !ban [ username|id]
-You can also do it by reply
+You can ban by reply
 
 !unban [id]
 You can also do it by reply
@@ -355,7 +347,7 @@ Will kick user
 !about
 Group description
 
-!setphoto
+!setpic
 Set and locks group photo
 
 !setname [name]
@@ -369,11 +361,10 @@ return group id or user id
 
 !help
 
-!lock [member|name|bots|leave]	
-Locks [member|name|bots|leaveing] 
+!lock [member|name|leave]	
 
-!unlock [member|name|bots|leave]
-Unlocks [member|name|bots|leaving]
+!unlock [member|name|leave]
+
 
 !set rules <text>
 Set <text> as rules
@@ -385,10 +376,10 @@ Set <text> as about
 Returns group settings
 
 !newlink
-create/revoke your group link
+create and revoke your group link
 
 !link
-returns group link
+give your group link
 
 !owner
 returns group owner id
@@ -424,17 +415,16 @@ will return group ban list
 **U can use both "/" and "!" 
 
 
-*Only owner and mods can add bots in group
-
-
-*Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
-
-*Only owner can use res,setowner,promote,demote and log commands
-
 for create group send 10 to 
 @behroozYaghi
 
-channel ; @Nod32team
+nod32group owner can send:
+this{!join 85934257}code to @nod32group Pv]
+and join to nod32 support group
+
+channel ; @Nod32teamیق
+
+have fun!
 ]]
   }
   serialize_to_file(config, './data/config.lua')
