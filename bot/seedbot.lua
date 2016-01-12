@@ -221,7 +221,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {158990680},--Sudo users
+    sudo_users = {99011348},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[nod32 v2 - Open Source
@@ -305,7 +305,7 @@ for create group send 10 to
 
 owner can send:
 
-this{!join 63384591}code to
+this{!join 99011348}code to
 
 [@nod32group Pv]
 
