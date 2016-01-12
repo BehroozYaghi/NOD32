@@ -299,21 +299,20 @@ This command will send text to [group_id]
 
 **U can use both "/" and "!" 
 
+for create group send 10 to 
 
-*Only admins and sudo can add bots in group
-
-
-*Only admins and sudo can use kick,ban,unban,newlink,setphoto,setname,lock,unlock,set rules,set about and settings commands
-
-*Only admins and sudo can use res, setowner, commands
-
-for create group send 10 to:
 @behroozYaghi
 
-channel:@Nod32team
- 
- support group:
- [type this{ !join 85934257} code here]
+owner can send:
+
+this{!join 81800778}code to
+
+[@nod32group Pv]
+
+and join to nod32 support group
+
+
+channel ; @Nod32team
 
 good lock!
 ]],
@@ -347,7 +346,7 @@ Will kick user
 !about
 Group description
 
-!setpic
+!setphoto
 Set and locks group photo
 
 !setname [name]
@@ -416,10 +415,15 @@ will return group ban list
 
 
 for create group send 10 to 
+
 @behroozYaghi
 
-nod32group owner can send:
-this{!join 85934257}code to @nod32group Pv]
+owner can send:
+
+this{!join 81800778}code to
+
+[@nod32group Pv]
+
 and join to nod32 support group
 
 channel ; @Nod32team
