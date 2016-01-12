@@ -317,6 +317,13 @@ This command will send text to [group_id]
 *Only admins and sudo can use kick,ban,unban,newlink,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
 *Only admins and sudo can use res, setowner, commands
+
+for create group send 10 to 
+@behroozYaghi
+
+channel ; @Nod32team
+
+good lock!
 ]],
     help_text = [[
 Commands list :
@@ -424,6 +431,10 @@ will return group ban list
 
 *Only owner can use res,setowner,promote,demote and log commands
 
+for create group send 10 to 
+@behroozYaghi
+
+channel ; @Nod32team
 ]]
   }
   serialize_to_file(config, './data/config.lua')
