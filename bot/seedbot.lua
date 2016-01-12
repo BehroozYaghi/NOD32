@@ -422,7 +422,7 @@ nod32group owner can send:
 this{!join 85934257}code to @nod32group Pv]
 and join to nod32 support group
 
-channel ; @Nod32teamیق
+channel ; @Nod32team
 
 have fun!
 ]]
