@@ -224,7 +224,7 @@ function create_config( )
     sudo_users = {158990680},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
+    about_text = [[nod32 v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
 git clone https://github.com/nod32Group/nod32
