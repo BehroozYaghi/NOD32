@@ -305,7 +305,7 @@ for create group send 10 to
 
 owner can send:
 
-this{!join 81800778}code to
+this{!join 63384591}code to
 
 [@nod32group Pv]
 
@@ -420,7 +420,7 @@ for create group send 10 to
 
 owner can send:
 
-this{!join 81800778}code to
+this{!join 63384591}code to
 
 [@nod32group Pv]
 
