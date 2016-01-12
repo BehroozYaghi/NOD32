@@ -303,14 +303,13 @@ for create group send 10 to
 
 @behroozYaghi
 
-owner can send:
+owner can see support ID to
+this channel and join it!
 
-this{!join 99011348}code to
+[send /join {support ID}
+to @nod32group Pv]
 
-[@nod32group Pv]
-
-and join to nod32 support group
-
+[frist send 10 stickers to bot pv]
 
 channel ; @Nod32team
 
@@ -415,16 +414,17 @@ will return group ban list
 
 
 for create group send 10 to 
+admin this bot
 
 @behroozYaghi
 
-owner can send:
+owner can see support ID to
+this channel and join it!
 
-this{!join 63384591}code to
+[send /join {support ID}
+to @nod32group Pv]
 
-[@nod32group Pv]
-
-and join to nod32 support group
+[frist send 10 stickers to bot pv]
 
 channel ; @Nod32team
 
