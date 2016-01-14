@@ -221,7 +221,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {99011348},--Sudo users
+    sudo_users = {158990680},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[nod32 v2 - Open Source
@@ -309,7 +309,7 @@ this channel and join it!
 [send /join {support ID}
 to @nod32group Pv]
 
-[frist send 10 stickers to bot pv]
+[first send 10 stickers to bot pv]
 
 channel ; @Nod32team
 
@@ -424,7 +424,7 @@ this channel and join it!
 [send /join {support ID}
 to @nod32group Pv]
 
-[frist send 10 stickers to bot pv]
+[first send 10 stickers to bot pv]
 
 channel ; @Nod32team
 
