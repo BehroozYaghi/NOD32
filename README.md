@@ -18,7 +18,7 @@
 * **And ...**
 
 **Table of Contents** 
-- [TeleSeed](#teleseed)
+- [nod32](#teleseed)
 - [Features](#features)
 - [Commands](#commands)
 	- [Admins commands](#admins-commands)
